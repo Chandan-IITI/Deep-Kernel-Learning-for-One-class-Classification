@@ -4,7 +4,7 @@
 
 **Authors**: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer
 
-### For execution, simply go to the demo folder ('Demo_Alzheimer', 'Demo_mediumDatasets', 'Demo_smallDatasets') and execute that. All source codes and datases are available in 'src' folder.
+### For execution, simply go to the one of the demo folders ('Demo_Alzheimer', 'Demo_mediumDatasets', or 'Demo_smallDatasets') and execute that. All source codes and datases are available in 'src' folder.
 
 
 
