@@ -12,7 +12,18 @@
 
 \# Leng, Q., Qi, H., Miao, J., Zhu, W., & Su, G. (2015). One-class classification with extreme learning machine. Mathematical problems in engineering, 2015.
 
-2. 
+2. **VOCKELM**
+
+\# Mygdalis, V., Iosifidis, A., Tefas, A., & Pitas, I. (2016, September). One class classification applied in facial image analysis. In 2016 IEEE International Conference on Image Processing (ICIP) (pp. 1644-1648). IEEE.
+
+3. **ML-OCKELM**
+
+\# Dai, H., Cao, J., Wang, T., Deng, M., & Yang, Z. (2019). Multilayer one-class extreme learning machine. Neural Networks, 115, 11-22.
+
+4. **DKRLVOC**
+
+**Paper:** Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (Submitted)
+
 
 
 
