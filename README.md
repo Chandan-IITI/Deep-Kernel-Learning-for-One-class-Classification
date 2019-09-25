@@ -1,4 +1,4 @@
-## Deep Kernel Learning for One-class Classification
+## Minimum Variance-Embedded Deep Kernel Learning for One-class Classification (**DKRLVOC**)
 
 **Paper**: Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (**Submitted**)
 
@@ -6,7 +6,7 @@
 
 #### For execution, simply go to the one of the demo folders ('Demo_Alzheimer', 'Demo_mediumDatasets', or 'Demo_smallDatasets'), and open '.m' file in MATLAB and execute that. All source codes and datases are available in 'src' folder.
 
-## This repository contains implementation of the following papers:
+## This repository also contains implementation of the following papers for comparison:
 
 1. **OCKELM**
 
@@ -19,14 +19,4 @@
 3. **ML-OCKELM**
 
 \# Dai, H., Cao, J., Wang, T., Deng, M., & Yang, Z. (2019). Multilayer one-class extreme learning machine. Neural Networks, 115, 11-22.
-
-4. **DKRLVOC**
-
-**Paper:** Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (**Submitted**)
-
-
-
-
-
-
 
