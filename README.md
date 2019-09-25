@@ -21,5 +21,5 @@
 \# Dai, H., Cao, J., Wang, T., Deng, M., & Yang, Z. (2019). Multilayer one-class extreme learning machine. Neural Networks, 115, 11-22.
 
 
-**For any query related to the above code, you can reach me at chandangautam31@gmail.com**
+###For any query related to the above code, you can reach me at chandangautam31@gmail.com
 
