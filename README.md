@@ -8,6 +8,14 @@
 
 ### These codes contains implementation of the following paper:
 
+@article{leng2015one,
+  title={One-class classification with extreme learning machine},
+  author={Leng, Qian and Qi, Honggang and Miao, Jun and Zhu, Wentao and Su, Guiping},
+  journal={Mathematical problems in engineering},
+  volume={2015},
+  year={2015},
+  publisher={Hindawi}
+}
 
 
 
