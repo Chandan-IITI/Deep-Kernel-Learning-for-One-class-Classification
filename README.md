@@ -1,6 +1,6 @@
 ## Deep Kernel Learning for One-class Classification
 
-**Paper**: Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (Submitted)
+**Paper**: Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (**Submitted**)
 
 **Authors**: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer
 
@@ -22,7 +22,7 @@
 
 4. **DKRLVOC**
 
-**Paper:** Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (Submitted)
+**Paper:** Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (**Submitted**)
 
 
 
