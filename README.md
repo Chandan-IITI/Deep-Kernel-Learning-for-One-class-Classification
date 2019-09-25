@@ -6,16 +6,11 @@
 
 ### For execution, simply go to the one of the demo folders ('Demo_Alzheimer', 'Demo_mediumDatasets', or 'Demo_smallDatasets'), and open '.m' file in MATLAB and execute that. All source codes and datases are available in 'src' folder.
 
-### These codes contains implementation of the following paper:
+### These codes contains implementation of the following papers:
 
-@article{leng2015one,
-  title={One-class classification with extreme learning machine},
-  author={Leng, Qian and Qi, Honggang and Miao, Jun and Zhu, Wentao and Su, Guiping},
-  journal={Mathematical problems in engineering},
-  volume={2015},
-  year={2015},
-  publisher={Hindawi}
-}
+1. Leng, Q., Qi, H., Miao, J., Zhu, W., & Su, G. (2015). One-class classification with extreme learning machine. Mathematical problems in engineering, 2015. (**OCKELM**)
+
+2. 
 
 
 
