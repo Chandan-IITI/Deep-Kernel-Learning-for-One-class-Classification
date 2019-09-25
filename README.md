@@ -10,7 +10,7 @@
 
 1. **OCKELM**
 
-Leng, Q., Qi, H., Miao, J., Zhu, W., & Su, G. (2015). One-class classification with extreme learning machine. Mathematical problems in engineering, 2015.
+Paper: Leng, Q., Qi, H., Miao, J., Zhu, W., & Su, G. (2015). One-class classification with extreme learning machine. Mathematical problems in engineering, 2015.
 
 2. 
 
