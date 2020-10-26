@@ -5,7 +5,7 @@
 
 #### For execution, simply go to the one of the demo folders ('Demo_Alzheimer', 'Demo_mediumDatasets', or 'Demo_smallDatasets'), and open '.m' file in MATLAB and execute that. All source codes and datases are available in 'src' folder.
 
-## This repository also contains implementation of the following papers for comparison:
+## This repository contains implementation of the following papers for comparison:
 
 1. **DKRLVOC**
 
