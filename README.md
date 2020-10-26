@@ -1,6 +1,6 @@
 ## Minimum Variance-Embedded Deep Kernel Learning for One-class Classification (**DKRLVOC**)
 
-**Paper**: Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data (**Submitted**)
+**Paper**: Gautam, C., Mishra, P. K., Tiwari, A., Richhariya, B., Pandey, H. M., Wang, S., Tanveer, M., & Alzheimer’s Disease Neuroimaging Initiative. (2020). Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data, Neural Networks, 123, 191-216. (https://www.sciencedirect.com/science/article/pii/S0893608019303934?casa_token=adAKfDjCQWoAAAAA:mVTXUQdVk4K0AchKHpIRRdX4Bv4kOreX8irB5Bc4YyBuwVNbZFdn7EwptwUhnggjEfxabHcX5A)
 
 **Authors**: Chandan Gautam, Pratik K Mishra, Aruna Tiwari, Bharat Richhariya, Hari Mohan Pandey, Shuihua Wang, M. Tanveer
 
@@ -8,15 +8,19 @@
 
 ## This repository also contains implementation of the following papers for comparison:
 
-1. **OCKELM**
+1. **DKRLVOC**
 
-\# Leng, Q., Qi, H., Miao, J., Zhu, W., & Su, G. (2015). One-class classification with extreme learning machine. Mathematical problems in engineering, 2015.
+\# Gautam, C., Mishra, P. K., Tiwari, A., Richhariya, B., Pandey, H. M., Wang, S., Tanveer, M., & Alzheimer’s Disease Neuroimaging Initiative. (2020). Minimum Variance-Embedded Deep Kernel Regularized Least Square Method for One-class Classification and Its Applications to Biomedical Data, Neural Networks, 123, 191-216. 
 
-2. **VOCKELM**
+2. **OCKELM**
+
+\# Leng, Q., Qi, H., Miao, J., Zhu, W., & Su, G. (2015). One-class classification with extreme learning machine. Mathematical problems in engineering.
+
+3. **VOCKELM**
 
 \# Mygdalis, V., Iosifidis, A., Tefas, A., & Pitas, I. (2016, September). One class classification applied in facial image analysis. In 2016 IEEE International Conference on Image Processing (ICIP) (pp. 1644-1648). IEEE.
 
-3. **ML-OCKELM**
+4. **ML-OCKELM**
 
 \# Dai, H., Cao, J., Wang, T., Deng, M., & Yang, Z. (2019). Multilayer one-class extreme learning machine. Neural Networks, 115, 11-22.
 
